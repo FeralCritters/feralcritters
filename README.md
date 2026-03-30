@@ -1,4 +1,4 @@
-https://i.pinimg.com/736x/db/82/7c/db827cf56879b5476eb1294b369a0787.jpg
+![alt text](https://i.pinimg.com/1200x/11/05/c1/1105c125e47f66da111336b63db55b21.jpg)
 
 <!--
 **FeralCritters/feralcritters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
